@@ -145,3 +145,4 @@ CRGB Scroll(int pos) {
   }
   return color;
 }
+
